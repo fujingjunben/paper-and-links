@@ -17,9 +17,17 @@
 ## 版本控制
 [Semantic Versioning Specification][6]
 
+## Http Client Library
+[Consuming APIs with Retrofit][6]
+
+## Dependency Management
+[gradle dependency management][7]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
 [4]:https://whitelaning.github.io/2015/06/12/H5_1.html
 [5]:http://tools.ietf.org/html/rfc5849#section-3.3
 [6]:http://semver.org/
+[7]:https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit
+[7]:https://docs.gradle.org/current/userguide/dependency_management.html
