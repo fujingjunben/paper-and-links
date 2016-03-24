@@ -19,6 +19,7 @@
 
 ## Http Client Library
 [Consuming APIs with Retrofit][7]
+[Retrofit 2 — Log Requests and Responses][9]
 
 ## Dependency Management
 [gradle dependency management][8]
@@ -31,3 +32,4 @@
 [6]:http://semver.org/
 [7]:https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit
 [8]:https://docs.gradle.org/current/userguide/dependency_management.html
+[9]:https://futurestud.io/blog/retrofit-2-log-requests-and-responses
