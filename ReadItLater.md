@@ -30,6 +30,10 @@
 ## Android
 [Android Theme][11]
 
+## Emacs
+[Emacs China][12]
+[M-x Chris-An-Emacser][13]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -41,3 +45,5 @@
 [9]:https://futurestud.io/blog/retrofit-2-log-requests-and-responses
 [10]:http://www.draketo.de/proj/py2guile/
 [11]:http://developer.android.com/guide/topics/ui/themes.html
+[12]:http://emacs-china.org/
+[13]:http://chriszheng.science/
