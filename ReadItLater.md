@@ -23,6 +23,8 @@
 ### guile
 [python to guile][10]
 
+### python
+[python mysql 操作][15]
 ### OCaml
 [ocaml.org][14]
 
@@ -53,3 +55,4 @@
 [12]:http://emacs-china.org/
 [13]:http://chriszheng.science/
 [14]:http://ocaml.org/
+[15]:http://www.runoob.com/python/python-mysql.html
