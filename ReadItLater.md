@@ -22,6 +22,7 @@
 ## Programming Language
 ### guile
 [python to guile][10]
+[nana's blog][16]
 
 ### python
 [python mysql 操作][15]
@@ -56,3 +57,4 @@
 [13]:http://chriszheng.science/
 [14]:http://ocaml.org/
 [15]:http://www.runoob.com/python/python-mysql.html
+[16]:https://nalaginrut.com/
