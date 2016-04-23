@@ -31,6 +31,9 @@
 
 ## Android
 [Android Theme][11]
+
+### UI ###
+[add shadow to outline][17]
 ### Android 和 H5
 [Hybrid App中原生页面 VS H5页面][3]
 
@@ -58,3 +61,4 @@
 [14]:http://ocaml.org/
 [15]:http://www.runoob.com/python/python-mysql.html
 [16]:https://nalaginrut.com/
+[17]:http://stackoverflow.com/questions/13005714/how-to-show-shadow-around-the-linearlayout-in-android
