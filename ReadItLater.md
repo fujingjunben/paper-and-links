@@ -31,6 +31,7 @@
 
 ## Android
 [Android Theme][11]
+[动态导入jar包][18]
 
 ### UI ###
 [add shadow to outline][17]
@@ -62,3 +63,4 @@
 [15]:http://www.runoob.com/python/python-mysql.html
 [16]:https://nalaginrut.com/
 [17]:http://stackoverflow.com/questions/13005714/how-to-show-shadow-around-the-linearlayout-in-android
+[18]:http://stackoverflow.com/questions/11453614/how-can-i-load-a-jar-file-dynamically-in-an-android-application-4-0-3
