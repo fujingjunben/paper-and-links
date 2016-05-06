@@ -36,6 +36,8 @@
 
 [Android应用程序资源的编译和打包过程分析][19]
 
+[android反编译-smali语法][21]
+
 [Oracle JNI Guide][20]
 
 ### UI ###
@@ -71,3 +73,4 @@
 [18]:http://stackoverflow.com/questions/11453614/how-can-i-load-a-jar-file-dynamically-in-an-android-application-4-0-3
 [19]:http://blog.csdn.net/luoshengyang/article/details/8744683
 [20]:http://docs.oracle.com/javase/1.5.0/docs/guide/jni/spec/jniTOC.html
+[21]:http://blog.isming.me/2015/01/14/android-decompile-smali/
