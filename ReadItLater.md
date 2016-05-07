@@ -40,6 +40,8 @@
 
 [Oracle JNI Guide][20]
 
+[apk编译/反编译工具baksmali和smali用法][22]
+
 ### UI ###
 [add shadow to outline][17]
 ### Android 和 H5
@@ -74,3 +76,4 @@
 [19]:http://blog.csdn.net/luoshengyang/article/details/8744683
 [20]:http://docs.oracle.com/javase/1.5.0/docs/guide/jni/spec/jniTOC.html
 [21]:http://blog.isming.me/2015/01/14/android-decompile-smali/
+[22]:http://blog.sina.com.cn/s/blog_7c6cbaf601019604.html
