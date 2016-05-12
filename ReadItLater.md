@@ -44,6 +44,8 @@
 
 [自定义控件三部曲之动画篇][23]
 
+[Android Animation 详细介绍][24]
+
 ### UI ###
 [add shadow to outline][17]
 ### Android 和 H5
@@ -80,3 +82,4 @@
 [21]:http://blog.isming.me/2015/01/14/android-decompile-smali/
 [22]:http://blog.sina.com.cn/s/blog_7c6cbaf601019604.html
 [23]:http://blog.csdn.net/harvic880925/article/details/39996643
+[24]:http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml
