@@ -32,6 +32,20 @@
 ## Android
 [Android Theme][11]
 
+[动态导入jar包][18]
+
+[Android应用程序资源的编译和打包过程分析][19]
+
+[android反编译-smali语法][21]
+
+[Oracle JNI Guide][20]
+
+[apk编译/反编译工具baksmali和smali用法][22]
+
+[自定义控件三部曲之动画篇][23]
+
+[Android Animation 详细介绍][24]
+
 ### UI ###
 [add shadow to outline][17]
 ### Android 和 H5
@@ -62,3 +76,10 @@
 [15]:http://www.runoob.com/python/python-mysql.html
 [16]:https://nalaginrut.com/
 [17]:http://stackoverflow.com/questions/13005714/how-to-show-shadow-around-the-linearlayout-in-android
+[18]:http://stackoverflow.com/questions/11453614/how-can-i-load-a-jar-file-dynamically-in-an-android-application-4-0-3
+[19]:http://blog.csdn.net/luoshengyang/article/details/8744683
+[20]:http://docs.oracle.com/javase/1.5.0/docs/guide/jni/spec/jniTOC.html
+[21]:http://blog.isming.me/2015/01/14/android-decompile-smali/
+[22]:http://blog.sina.com.cn/s/blog_7c6cbaf601019604.html
+[23]:http://blog.csdn.net/harvic880925/article/details/39996643
+[24]:http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml
