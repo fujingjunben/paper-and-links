@@ -48,6 +48,7 @@
 
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion][25]
 
+[Intent的FLAG_ACTIVITY_CLEAR_TOP，FLAG_ACTIVITY_SINGLE_TOP和FLAG_ACTIVITY_REORDER_TO_FRONT][26]
 ### UI ###
 [add shadow to outline][17]
 ### Android 和 H5
@@ -86,3 +87,4 @@
 [23]:http://blog.csdn.net/harvic880925/article/details/39996643
 [24]:http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml
 [25]:http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/
+[26]:http://handsomeliuyang.iteye.com/blog/1315283
