@@ -46,6 +46,8 @@
 
 [Android Animation 详细介绍][24]
 
+[如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion][25]
+
 ### UI ###
 [add shadow to outline][17]
 ### Android 和 H5
@@ -83,3 +85,4 @@
 [22]:http://blog.sina.com.cn/s/blog_7c6cbaf601019604.html
 [23]:http://blog.csdn.net/harvic880925/article/details/39996643
 [24]:http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml
+[25]:http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/
