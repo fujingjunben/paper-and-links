@@ -29,6 +29,9 @@
 ### OCaml
 [ocaml.org][14]
 
+### java
+[Java：单例模式的七种写法][29]
+
 ## Android
 [Android Theme][11]
 
@@ -94,3 +97,4 @@
 [26]:http://handsomeliuyang.iteye.com/blog/1315283
 [27]:https://developer.android.com/reference/java/util/concurrent/locks/Lock.html
 [28]:http://blog.csdn.net/a78270528/article/details/49448635
+[29]:http://www.blogjava.net/kenzhh/archive/2016/03/28/357824.html
