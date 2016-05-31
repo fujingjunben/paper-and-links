@@ -50,6 +50,8 @@
 
 [Intent的FLAG_ACTIVITY_CLEAR_TOP，FLAG_ACTIVITY_SINGLE_TOP和FLAG_ACTIVITY_REORDER_TO_FRONT][26]
 
+[Android 定时器的实现方式（TimerTask、Handler）及 Handler使用解析][28]
+
 [安卓的锁机制][27]
 ### UI ###
 [add shadow to outline][17]
@@ -91,3 +93,4 @@
 [25]:http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/
 [26]:http://handsomeliuyang.iteye.com/blog/1315283
 [27]:https://developer.android.com/reference/java/util/concurrent/locks/Lock.html
+[28]:http://blog.csdn.net/a78270528/article/details/49448635
