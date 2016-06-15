@@ -68,6 +68,8 @@
 [Emacs China][12]
 [M-x Chris-An-Emacser][13]
 
+## VIM
+[vim and python: a match made in heaven][30]
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
@@ -98,3 +100,4 @@
 [27]:https://developer.android.com/reference/java/util/concurrent/locks/Lock.html
 [28]:http://blog.csdn.net/a78270528/article/details/49448635
 [29]:http://www.blogjava.net/kenzhh/archive/2016/03/28/357824.html
+[30]:https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
