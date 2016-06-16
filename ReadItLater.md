@@ -32,6 +32,7 @@
 ### java
 [Java：单例模式的七种写法][29]
 [Google 开源的事件机制实现库][31]
+[Java 事件机制][32]
 
 ## Android
 [Android Theme][11]
@@ -103,3 +104,4 @@
 [29]:http://www.blogjava.net/kenzhh/archive/2016/03/28/357824.html
 [30]:https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
 [31]:https://github.com/google/guava/wiki/EventBusExplained
+[32]:http://blog.csdn.net/JianZhiZG/article/details/1427073
