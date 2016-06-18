@@ -26,6 +26,8 @@
 
 ### python
 [python mysql 操作][15]
+
+[python http 请求][33]
 ### OCaml
 [ocaml.org][14]
 
@@ -105,3 +107,4 @@
 [30]:https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
 [31]:https://github.com/google/guava/wiki/EventBusExplained
 [32]:http://blog.csdn.net/JianZhiZG/article/details/1427073
+[33]:http://blog.csdn.net/xhw88398569/article/details/49179967
