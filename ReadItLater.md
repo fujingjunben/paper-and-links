@@ -62,6 +62,8 @@
 [安卓的锁机制][27]
 ### UI ###
 [add shadow to outline][17]
+
+[幻灯片][34]
 ### Android 和 H5
 [Hybrid App中原生页面 VS H5页面][3]
 
@@ -108,3 +110,4 @@
 [31]:https://github.com/google/guava/wiki/EventBusExplained
 [32]:http://blog.csdn.net/JianZhiZG/article/details/1427073
 [33]:http://blog.csdn.net/xhw88398569/article/details/49179967
+[34]:https://developer.android.com/training/animation/screen-slide.html
