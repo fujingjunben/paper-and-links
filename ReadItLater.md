@@ -59,6 +59,8 @@
 
 [Android 定时器的实现方式（TimerTask、Handler）及 Handler使用解析][28]
 
+[Android 优秀资源、库及工具][35]
+
 [安卓的锁机制][27]
 ### UI ###
 [add shadow to outline][17]
@@ -111,3 +113,4 @@
 [32]:http://blog.csdn.net/JianZhiZG/article/details/1427073
 [33]:http://blog.csdn.net/xhw88398569/article/details/49179967
 [34]:https://developer.android.com/training/animation/screen-slide.html
+[35]:http://alamkanak.github.io/android-libraries-and-resources/
