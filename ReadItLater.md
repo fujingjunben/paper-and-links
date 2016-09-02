@@ -63,6 +63,8 @@
 
 [获取一个包下面的所有类][36]
 
+[java 动态代理][37]
+
 [安卓的锁机制][27]
 ### UI ###
 [add shadow to outline][17]
@@ -117,3 +119,4 @@
 [34]:https://developer.android.com/training/animation/screen-slide.html
 [35]:http://alamkanak.github.io/android-libraries-and-resources/
 [36]:http://stackoverflow.com/questions/15446036/find-all-classes-in-a-package-in-android
+[37]:https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
