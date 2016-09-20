@@ -83,6 +83,9 @@
 ## VIM
 [vim and python: a match made in heaven][30]
 
+## 编程注意事项
+[Global Variables Are Bad][38]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -120,3 +123,4 @@
 [35]:http://alamkanak.github.io/android-libraries-and-resources/
 [36]:http://stackoverflow.com/questions/15446036/find-all-classes-in-a-package-in-android
 [37]:https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
+[38]:http://c2.com/cgi/wiki?GlobalVariablesAreBad
