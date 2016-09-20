@@ -70,10 +70,14 @@
 [add shadow to outline][17]
 
 [幻灯片][34]
+
 ### Android 和 H5
 [Hybrid App中原生页面 VS H5页面][3]
 
 [当 Android 邂逅 H5][4]
+
+### Android 和 JS 交互
+[Android 和 JS 交互][39]
 
 
 ## Emacs
@@ -124,3 +128,4 @@
 [36]:http://stackoverflow.com/questions/15446036/find-all-classes-in-a-package-in-android
 [37]:https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
 [38]:http://c2.com/cgi/wiki?GlobalVariablesAreBad
+[39]:http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/
