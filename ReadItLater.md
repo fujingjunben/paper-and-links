@@ -26,8 +26,15 @@
 
 ### python
 [python mysql 操作][15]
+
+[python http 请求][33]
 ### OCaml
 [ocaml.org][14]
+
+### java
+[Java：单例模式的七种写法][29]
+[Google 开源的事件机制实现库][31]
+[Java 事件机制][32]
 
 ## Android
 [Android Theme][11]
@@ -46,18 +53,42 @@
 
 [Android Animation 详细介绍][24]
 
+[如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion][25]
+
+[Intent的FLAG_ACTIVITY_CLEAR_TOP，FLAG_ACTIVITY_SINGLE_TOP和FLAG_ACTIVITY_REORDER_TO_FRONT][26]
+
+[Android 定时器的实现方式（TimerTask、Handler）及 Handler使用解析][28]
+
+[Android 优秀资源、库及工具][35]
+
+[获取一个包下面的所有类][36]
+
+[java 动态代理][37]
+
+[安卓的锁机制][27]
 ### UI ###
 [add shadow to outline][17]
+
+[幻灯片][34]
+
 ### Android 和 H5
 [Hybrid App中原生页面 VS H5页面][3]
 
 [当 Android 邂逅 H5][4]
+
+### Android 和 JS 交互
+[Android 和 JS 交互][39]
 
 
 ## Emacs
 [Emacs China][12]
 [M-x Chris-An-Emacser][13]
 
+## VIM
+[vim and python: a match made in heaven][30]
+
+## 编程注意事项
+[Global Variables Are Bad][38]
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
@@ -83,3 +114,18 @@
 [22]:http://blog.sina.com.cn/s/blog_7c6cbaf601019604.html
 [23]:http://blog.csdn.net/harvic880925/article/details/39996643
 [24]:http://www.360doc.com/content/13/0102/22/6541311_257754535.shtml
+[25]:http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/
+[26]:http://handsomeliuyang.iteye.com/blog/1315283
+[27]:https://developer.android.com/reference/java/util/concurrent/locks/Lock.html
+[28]:http://blog.csdn.net/a78270528/article/details/49448635
+[29]:http://www.blogjava.net/kenzhh/archive/2016/03/28/357824.html
+[30]:https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+[31]:https://github.com/google/guava/wiki/EventBusExplained
+[32]:http://blog.csdn.net/JianZhiZG/article/details/1427073
+[33]:http://blog.csdn.net/xhw88398569/article/details/49179967
+[34]:https://developer.android.com/training/animation/screen-slide.html
+[35]:http://alamkanak.github.io/android-libraries-and-resources/
+[36]:http://stackoverflow.com/questions/15446036/find-all-classes-in-a-package-in-android
+[37]:https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
+[38]:http://c2.com/cgi/wiki?GlobalVariablesAreBad
+[39]:http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/
