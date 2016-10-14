@@ -93,6 +93,9 @@
 ## Linux
 [arch linux installation with xfce desktop][40]
 
+## Chrome
+[命令行通过代理启动][41]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -133,3 +136,4 @@
 [38]:http://c2.com/cgi/wiki?GlobalVariablesAreBad
 [39]:http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/
 [40]:https://www.howtoforge.com/tutorial/arch-linux-installation-with-xfce-desktop/
+[41]:http://ask.systutorials.com/247/how-to-set-google-chromes-proxy-settings-command-line-linux
