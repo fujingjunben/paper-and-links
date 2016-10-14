@@ -92,7 +92,8 @@
 
 ## Linux
 [arch linux installation with xfce desktop][40]
-[tmux][42]
+[tmux 教程][42]
+[tmux 设置][43]
 
 ## Chrome
 [命令行通过代理启动][41]
@@ -140,3 +141,4 @@
 [40]:https://www.howtoforge.com/tutorial/arch-linux-installation-with-xfce-desktop/
 [41]:http://ask.systutorials.com/247/how-to-set-google-chromes-proxy-settings-command-line-linux
 [42]:http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/
+[43]:https://danielmiessler.com/study/tmux/
