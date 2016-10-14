@@ -90,6 +90,9 @@
 ## 编程注意事项
 [Global Variables Are Bad][38]
 
+## Linux
+[arch linux installation with xfce desktop][40]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -129,3 +132,4 @@
 [37]:https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
 [38]:http://c2.com/cgi/wiki?GlobalVariablesAreBad
 [39]:http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/
+[40]:https://www.howtoforge.com/tutorial/arch-linux-installation-with-xfce-desktop/
