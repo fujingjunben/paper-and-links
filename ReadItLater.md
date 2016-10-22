@@ -36,6 +36,9 @@
 [Google 开源的事件机制实现库][31]
 [Java 事件机制][32]
 
+### C++
+[C++ rules][44]
+
 ## Android
 [Android Theme][11]
 
@@ -142,3 +145,4 @@
 [41]:http://ask.systutorials.com/247/how-to-set-google-chromes-proxy-settings-command-line-linux
 [42]:http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/
 [43]:https://danielmiessler.com/study/tmux/
+[44]:https://www.doc.ic.ac.uk/lab/cplus/c++.rules/
