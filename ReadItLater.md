@@ -36,6 +36,9 @@
 [Google 开源的事件机制实现库][31]
 [Java 事件机制][32]
 
+### C++
+[C++ rules][44]
+
 ## Android
 [Android Theme][11]
 
@@ -79,6 +82,9 @@
 ### Android 和 JS 交互
 [Android 和 JS 交互][39]
 
+## Android Studio
+[Android Studio gradle socks proxy][45]
+
 
 ## Emacs
 [Emacs China][12]
@@ -98,6 +104,8 @@
 ## Chrome
 [命令行通过代理启动][41]
 
+## git
+[ssh-config-same-host-but-different-keys-and-usernames][46]
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
@@ -142,3 +150,6 @@
 [41]:http://ask.systutorials.com/247/how-to-set-google-chromes-proxy-settings-command-line-linux
 [42]:http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/
 [43]:https://danielmiessler.com/study/tmux/
+[44]:https://www.doc.ic.ac.uk/lab/cplus/c++.rules/
+[45]:https://blog.jysoftware.com/2015/04/gradle-via-socks5-proxy/
+[46]:http://superuser.com/questions/366649/ssh-config-same-host-but-different-keys-and-usernames
