@@ -107,6 +107,9 @@
 ## git
 [ssh-config-same-host-but-different-keys-and-usernames][46]
 
+## Google Play
+[Google Play FAQ][47]
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -153,3 +156,4 @@
 [44]:https://www.doc.ic.ac.uk/lab/cplus/c++.rules/
 [45]:https://blog.jysoftware.com/2015/04/gradle-via-socks5-proxy/
 [46]:http://superuser.com/questions/366649/ssh-config-same-host-but-different-keys-and-usernames
+[47]:http://blog.csdn.net/bianchengninhao/article/details/42241105
