@@ -39,6 +39,9 @@
 ### C++
 [C++ rules][44]
 
+### QT
+[qt tablewidget控件属性和方法][50]
+
 ## Android
 [Android Theme][11]
 
@@ -164,3 +167,4 @@
 [47]:http://blog.csdn.net/bianchengninhao/article/details/42241105
 [48]:http://stackoverflow.com/questions/14600664/android-in-app-purchase-signature-verification-failed
 [49]:https://www.devbean.net/
+[50]:https://lug.ustc.edu.cn/sites/qtguide/ch08-02.htm
