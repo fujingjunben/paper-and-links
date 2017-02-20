@@ -39,6 +39,9 @@
 ### C++
 [C++ rules][44]
 
+### QT
+[qt tablewidget控件属性和方法][50]
+
 ## Android
 [Android Theme][11]
 
@@ -111,6 +114,10 @@
 [Google Play FAQ][47]
 [Android in app purchase signature verification failed][48]
 
+## 博客
+[devbean][49]
+
+
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
 [3]:http://www.jianshu.com/p/00ff5664e000
@@ -159,3 +166,5 @@
 [46]:http://superuser.com/questions/366649/ssh-config-same-host-but-different-keys-and-usernames
 [47]:http://blog.csdn.net/bianchengninhao/article/details/42241105
 [48]:http://stackoverflow.com/questions/14600664/android-in-app-purchase-signature-verification-failed
+[49]:https://www.devbean.net/
+[50]:https://lug.ustc.edu.cn/sites/qtguide/ch08-02.htm
