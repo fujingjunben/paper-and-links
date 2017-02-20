@@ -88,6 +88,9 @@
 ## Android Studio
 [Android Studio gradle socks proxy][45]
 
+## Android 框架
+[使用Clean架构开发Android应用详细指南][51]
+
 
 ## Emacs
 [Emacs China][12]
@@ -168,3 +171,4 @@
 [48]:http://stackoverflow.com/questions/14600664/android-in-app-purchase-signature-verification-failed
 [49]:https://www.devbean.net/
 [50]:https://lug.ustc.edu.cn/sites/qtguide/ch08-02.htm
+[51]:http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3979.html
