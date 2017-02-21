@@ -90,13 +90,17 @@
 
 ## Android 框架
 [使用Clean架构开发Android应用详细指南][51]
+
 [Effitive Android UI][52]
+
 [Uncle Bob: Architecture is About Intent, not Frameworks][53]
+
 [Google Sample 中的 Android框架][54]
 
 
 ## Emacs
 [Emacs China][12]
+
 [M-x Chris-An-Emacser][13]
 
 ## VIM
