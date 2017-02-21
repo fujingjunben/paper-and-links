@@ -90,6 +90,9 @@
 
 ## Android 框架
 [使用Clean架构开发Android应用详细指南][51]
+[Effitive Android UI][52]
+[Uncle Bob: Architecture is About Intent, not Frameworks][53]
+[Google Sample 中的 Android框架][54]
 
 
 ## Emacs
@@ -172,3 +175,6 @@
 [49]:https://www.devbean.net/
 [50]:https://lug.ustc.edu.cn/sites/qtguide/ch08-02.htm
 [51]:http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3979.html
+[52]:https://github.com/pedrovgs/EffectiveAndroidUI/
+[53]:https://www.infoq.com/news/2013/07/architecture_intent_frameworks
+[54]:https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
