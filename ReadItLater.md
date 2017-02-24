@@ -97,6 +97,8 @@
 
 [Google Sample 中的 Android框架][54]
 
+[Applying The Clean Architecture to Go applications][56]
+
 
 ## Emacs
 [Emacs China][12]
@@ -184,3 +186,4 @@
 [53]:https://www.infoq.com/news/2013/07/architecture_intent_frameworks
 [54]:https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
 [55]:http://blog.spinytech.com/
+[56]:http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
