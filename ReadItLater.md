@@ -126,6 +126,7 @@
 
 ## 博客
 [devbean][49]
+[Spinytech][55]
 
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
@@ -182,3 +183,4 @@
 [52]:https://github.com/pedrovgs/EffectiveAndroidUI/
 [53]:https://www.infoq.com/news/2013/07/architecture_intent_frameworks
 [54]:https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
+[55]:http://blog.spinytech.com/
