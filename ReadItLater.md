@@ -87,6 +87,7 @@
 
 ## Android Studio
 [Android Studio gradle socks proxy][45]
+[通过命令行编译APK][57]
 
 ## Android 框架
 [使用Clean架构开发Android应用详细指南][51]
@@ -187,3 +188,4 @@
 [54]:https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
 [55]:http://blog.spinytech.com/
 [56]:http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
+[57]:https://developer.android.com/studio/build/building-cmdline.html?hl=zh-cn
