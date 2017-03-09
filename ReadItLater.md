@@ -100,6 +100,7 @@
 
 [Applying The Clean Architecture to Go applications][56]
 
+[领域驱动设计和实践][58]
 
 ## Emacs
 [Emacs China][12]
@@ -189,3 +190,4 @@
 [55]:http://blog.spinytech.com/
 [56]:http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
 [57]:https://developer.android.com/studio/build/building-cmdline.html?hl=zh-cn
+[58]:http://www.infoq.com/cn/articles/cjq-ddd
