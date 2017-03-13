@@ -72,6 +72,10 @@
 [java 动态代理][37]
 
 [安卓的锁机制][27]
+
+### Android 逆向工程
+[解析编译之后的Resource.arsc文件格式][60]
+
 ### UI ###
 [add shadow to outline][17]
 
@@ -89,7 +93,7 @@
 [Android Studio gradle socks proxy][45]
 [通过命令行编译APK][57]
 
-## Android 框架
+## 软件架构设计
 [使用Clean架构开发Android应用详细指南][51]
 
 [Effitive Android UI][52]
@@ -102,6 +106,7 @@
 
 [领域驱动设计和实践][58]
 
+[Screaming Architecture][59]
 ## Emacs
 [Emacs China][12]
 
@@ -191,3 +196,5 @@
 [56]:http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
 [57]:https://developer.android.com/studio/build/building-cmdline.html?hl=zh-cn
 [58]:http://www.infoq.com/cn/articles/cjq-ddd
+[59]:https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html
+[60]:http://blog.csdn.net/jiangwei0910410003/article/details/50628894
