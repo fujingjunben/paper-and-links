@@ -107,6 +107,9 @@
 [领域驱动设计和实践][58]
 
 [Screaming Architecture][59]
+
+[如何构建Android MVVM 应用框架][61]
+
 ## Emacs
 [Emacs China][12]
 
@@ -198,3 +201,4 @@
 [58]:http://www.infoq.com/cn/articles/cjq-ddd
 [59]:https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html
 [60]:http://blog.csdn.net/jiangwei0910410003/article/details/50628894
+[61]:http://tech.meituan.com/android_mvvm.html
