@@ -110,6 +110,8 @@
 
 [如何构建Android MVVM 应用框架][61]
 
+[软件分层结构][62]
+
 ## Emacs
 [Emacs China][12]
 
@@ -202,3 +204,4 @@
 [59]:https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html
 [60]:http://blog.csdn.net/jiangwei0910410003/article/details/50628894
 [61]:http://tech.meituan.com/android_mvvm.html
+[62]:http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
