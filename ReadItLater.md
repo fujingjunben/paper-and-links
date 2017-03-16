@@ -76,6 +76,7 @@
 ### Android 逆向工程
 [解析编译之后的Resource.arsc文件格式][60]
 
+
 ### UI ###
 [add shadow to outline][17]
 
@@ -88,6 +89,9 @@
 
 ### Android 和 JS 交互
 [Android 和 JS 交互][39]
+
+### Data Binding
+[数据绑定][64]
 
 ## Android Studio
 [Android Studio gradle socks proxy][45]
@@ -207,3 +211,4 @@
 [61]:http://tech.meituan.com/android_mvvm.html
 [62]:http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
 [63]:http://tech.meituan.com/clean-code.html
+[64]:https://developer.android.com/topic/libraries/data-binding/index.html
