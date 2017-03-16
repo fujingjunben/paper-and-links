@@ -112,6 +112,7 @@
 
 [软件分层结构][62]
 
+[聊聊clean code][63]
 ## Emacs
 [Emacs China][12]
 
@@ -205,3 +206,4 @@
 [60]:http://blog.csdn.net/jiangwei0910410003/article/details/50628894
 [61]:http://tech.meituan.com/android_mvvm.html
 [62]:http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
+[63]:http://tech.meituan.com/clean-code.html
