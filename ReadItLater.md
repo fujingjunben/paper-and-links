@@ -33,8 +33,12 @@
 
 ### java
 [Java：单例模式的七种写法][29]
+
 [Google 开源的事件机制实现库][31]
+
 [Java 事件机制][32]
+
+[Java 解析 html 库][65]
 
 ### C++
 [C++ rules][44]
@@ -212,3 +216,4 @@
 [62]:http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
 [63]:http://tech.meituan.com/clean-code.html
 [64]:https://developer.android.com/topic/libraries/data-binding/index.html
+[65]:https://www.ibm.com/developerworks/cn/java/j-lo-jsouphtml/
