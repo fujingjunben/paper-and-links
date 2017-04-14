@@ -40,6 +40,9 @@
 
 [Java 解析 html 库][65]
 
+#### html 解析器
+[htmlcleaner 代码实例][66]
+
 ### C++
 [C++ rules][44]
 
@@ -217,3 +220,4 @@
 [63]:http://tech.meituan.com/clean-code.html
 [64]:https://developer.android.com/topic/libraries/data-binding/index.html
 [65]:https://www.ibm.com/developerworks/cn/java/j-lo-jsouphtml/
+[66]:http://www.programcreek.com/java-api-examples/index.php?api=org.htmlcleaner.HtmlCleaner
