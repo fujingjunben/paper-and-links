@@ -33,8 +33,12 @@
 
 ### java
 [Java：单例模式的七种写法][29]
+
 [Google 开源的事件机制实现库][31]
+
 [Java 事件机制][32]
+
+[Java 解析 html 库][65]
 
 ### C++
 [C++ rules][44]
@@ -72,6 +76,11 @@
 [java 动态代理][37]
 
 [安卓的锁机制][27]
+
+### Android 逆向工程
+[解析编译之后的Resource.arsc文件格式][60]
+
+
 ### UI ###
 [add shadow to outline][17]
 
@@ -85,10 +94,14 @@
 ### Android 和 JS 交互
 [Android 和 JS 交互][39]
 
+### Data Binding
+[数据绑定][64]
+
 ## Android Studio
 [Android Studio gradle socks proxy][45]
+[通过命令行编译APK][57]
 
-## Android 框架
+## 软件架构设计
 [使用Clean架构开发Android应用详细指南][51]
 
 [Effitive Android UI][52]
@@ -97,7 +110,17 @@
 
 [Google Sample 中的 Android框架][54]
 
+[Applying The Clean Architecture to Go applications][56]
 
+[领域驱动设计和实践][58]
+
+[Screaming Architecture][59]
+
+[如何构建Android MVVM 应用框架][61]
+
+[软件分层结构][62]
+
+[聊聊clean code][63]
 ## Emacs
 [Emacs China][12]
 
@@ -126,6 +149,7 @@
 
 ## 博客
 [devbean][49]
+[Spinytech][55]
 
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
@@ -182,3 +206,14 @@
 [52]:https://github.com/pedrovgs/EffectiveAndroidUI/
 [53]:https://www.infoq.com/news/2013/07/architecture_intent_frameworks
 [54]:https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
+[55]:http://blog.spinytech.com/
+[56]:http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
+[57]:https://developer.android.com/studio/build/building-cmdline.html?hl=zh-cn
+[58]:http://www.infoq.com/cn/articles/cjq-ddd
+[59]:https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html
+[60]:http://blog.csdn.net/jiangwei0910410003/article/details/50628894
+[61]:http://tech.meituan.com/android_mvvm.html
+[62]:http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
+[63]:http://tech.meituan.com/clean-code.html
+[64]:https://developer.android.com/topic/libraries/data-binding/index.html
+[65]:https://www.ibm.com/developerworks/cn/java/j-lo-jsouphtml/
