@@ -50,6 +50,12 @@
 [qt tablewidget控件属性和方法][50]
 
 ## Android
+
+### 线程
+[Java(Android)线程池][68]
+
+### MultiDex
+[MultiDex遇到的坑][67]
 [Android Theme][11]
 
 [动态导入jar包][18]
@@ -221,3 +227,5 @@
 [64]:https://developer.android.com/topic/libraries/data-binding/index.html
 [65]:https://www.ibm.com/developerworks/cn/java/j-lo-jsouphtml/
 [66]:http://www.programcreek.com/java-api-examples/index.php?api=org.htmlcleaner.HtmlCleaner
+[67]:https://juejin.im/entry/5705b2712e958a0057a5f735
+[68]:http://www.trinea.cn/android/java-android-thread-pool/
