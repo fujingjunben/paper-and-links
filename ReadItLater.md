@@ -135,6 +135,8 @@
 
 [M-x Chris-An-Emacser][13]
 
+[org mode 简明教程][69]
+
 ## VIM
 [vim and python: a match made in heaven][30]
 
@@ -229,3 +231,4 @@
 [66]:http://www.programcreek.com/java-api-examples/index.php?api=org.htmlcleaner.HtmlCleaner
 [67]:https://juejin.im/entry/5705b2712e958a0057a5f735
 [68]:http://www.trinea.cn/android/java-android-thread-pool/
+[69]:http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html
