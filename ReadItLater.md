@@ -54,8 +54,13 @@
 ### 线程
 [Java(Android)线程池][68]
 
+[Android中Handler的使用][70]
+
+[深入源码解析Android中的Handler,Message,MessageQueue,Looper][71]
+
 ### MultiDex
 [MultiDex遇到的坑][67]
+
 [Android Theme][11]
 
 [动态导入jar包][18]
@@ -232,3 +237,5 @@
 [67]:https://juejin.im/entry/5705b2712e958a0057a5f735
 [68]:http://www.trinea.cn/android/java-android-thread-pool/
 [69]:http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html
+[70]:http://blog.csdn.net/iispring/article/details/47115879
+[71]:http://blog.csdn.net/iispring/article/details/47180325
