@@ -167,6 +167,9 @@
 [devbean][49]
 [Spinytech][55]
 
+## Flutter
+[生命周期][72]
+
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
@@ -239,3 +242,4 @@
 [69]:http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html
 [70]:http://blog.csdn.net/iispring/article/details/47115879
 [71]:http://blog.csdn.net/iispring/article/details/47180325
+[72]:https://flutterbyexample.com/stateful-widget-lifecycle/
