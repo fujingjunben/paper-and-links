@@ -173,6 +173,10 @@
 ## 编程杂谈
 [技术人群成就 10 倍工程师：我学习到的最佳工程建议][73]
 
+## 公司架构
+[中台][74]
+
+
 
 [1]:http://www.cnblogs.com/hyddd/p/4237099.html
 [2]:http://www.infoq.com/cn/articles/medium-development-team-talk-about-architecture-design
@@ -247,3 +251,4 @@
 [71]:http://blog.csdn.net/iispring/article/details/47180325
 [72]:https://flutterbyexample.com/stateful-widget-lifecycle/
 [73]:https://www.infoq.cn/article/h0l8JNoyfg*JcAsKGVAR
+[74]:https://www.zhihu.com/question/57717433
